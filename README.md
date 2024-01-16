@@ -8,6 +8,12 @@
 
 
 ### TECNOLOGIAS QUE EU USO NO MEU DIA
+<div style="diplay: inline_block><br/>
+        <img src="[caminho/para/sua/imagem.jpg](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)" alt="Python">
+</div>
+<div style="diplay: inline_block><br/>
+        <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C">
+</div>
 
 ### EXPERIENCIA COM OUTRAS TECNOLOGIAS 
 
