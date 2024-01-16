@@ -10,7 +10,7 @@
 ### TECNOLOGIAS QUE EU USO NO MEU DIA
 <div style="diplay: inline_block><br/>
        <img align="center" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C">
-</div>
+       </div>
 
 ### EXPERIENCIA COM OUTRAS TECNOLOGIAS 
 
