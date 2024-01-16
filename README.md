@@ -7,7 +7,7 @@
 
 ![HACKEREARTH](https://img.shields.io/badge/HackerEarth-%232C3454.svg?&style=for-the-badge&logo=HackerEarth&logoColor=Blue)  ![LEETCODE](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mateuslucas1879_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mateuslucas1879&show_icons=true&theme=radical)
 
 
 
