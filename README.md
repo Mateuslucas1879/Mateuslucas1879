@@ -31,8 +31,22 @@
 
 
 ### SISTEMA OPERACIONAL UTILIZADO NO MOMENTO
+<div style="diplay: inline_block><br/>
+              <img align="center" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="NÃO RESPONDE">
+              <img align="center" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
+              <img align="center" src="https://img.shields.io/badge/Pop!_OS-48B9C7?style=for-the-badge&logo=Pop!_OS&logoColor=white" alt="POP">
+              
+</div>
+
 
 ### EXPERIENCIA COM OUTROS SISTEMAS OPERACIONAIS
+<div style="diplay: inline_block><br/>
+              <img align="center" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="NÃO RESPONDE">
+              <img align="center" src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" alt="kali_Linux">
+              <img align="center" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="ubu">
+              <img align="center" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="janela">
+              
+</div>
 
 
 
