@@ -3,11 +3,11 @@
 
 [![Ícone de E-mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mateuslucas1879@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seu-nome/)
 
-[![HackerEarth](https://img.shields.io/badge/HackerEarth-323754?style=for-the-badge&logo=hackerearth&logoColor=white)](https://www.hackerearth.com/@mateuslucas)
+[![HackerEarth](https://img.shields.io/badge/HackerEarth-323754?style=for-the-badge&logo=hackerearth&logoColor=white)](https://www.hackerearth.com/@mateuslucas) [![LeetCode](https://img.shields.io/badge/LeetCode-02569B?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/mateuslucas)
+
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mateuslucas1879&show_icons=true&theme=radical)
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=Mateuslucas1879&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 
 
 ### TECNOLOGIAS QUE EU USO NO MEU DIA
