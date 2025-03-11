@@ -34,6 +34,7 @@
 
 ### EXPERIENCIA COM BANCO DE DADOS
 <div style="diplay: inline_block><br/>
+              <img align="center" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="NÃO RESPONDE">
               <img align="center" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql">
 
 </div>
