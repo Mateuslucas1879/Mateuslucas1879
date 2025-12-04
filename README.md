@@ -1,4 +1,4 @@
-adicione apenas os graficos aqui e coloque eles uma ao lado do outro remova github stats:esta dando algum erro no meu readme do github ;### OLÁ, EU SOU O MATEUS 😁
+### OLÁ, EU SOU O MATEUS 😁
 
 
 [![Ícone de E-mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mateuslucas1879@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seu-nome/)
