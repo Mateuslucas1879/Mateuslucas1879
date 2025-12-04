@@ -6,14 +6,12 @@
 [![HackerRank](https://img.shields.io/badge/HackerRank-02569B?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/mateuslucas1879)
 
 ---
+### 🧭 Linguagens e Métricas
 
-### 📊 Minhas Estatísticas (Rápidas)
+[![Top Langs](https://img.shields.io/github/languages/top/Mateuslucas1879?style=for-the-badge)]
+[![Followers](https://img.shields.io/github/followers/Mateuslucas1879?label=Followers&style=for-the-badge)]
+[![Repo Count](https://img.shields.io/github/repo-count/Mateuslucas1879?style=for-the-badge)]
 
-[![Seguidores](https://img.shields.io/github/followers/Mateuslucas1879?label=Followers&style=for-the-badge)]
-[![Repositórios](https://img.shields.io/github/repo-count/Mateuslucas1879?style=for-the-badge)]
-[![Linguagens Top](https://img.shields.io/github/languages/top/Mateuslucas1879?style=for-the-badge)]
-[![Linguagens (count)](https://img.shields.io/github/languages/count/Mateuslucas1879?style=for-the-badge)]
-[![Perfil GitHub](https://img.shields.io/badge/GitHub-Mateuslucas1879-181717?style=for-the-badge&logo=github)]
 
 ---
 
