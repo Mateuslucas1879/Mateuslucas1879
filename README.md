@@ -1,26 +1,33 @@
-### OLÁ, EU SOU O MATEUS 😁
+### 👋 OLÁ, EU SOU O MATEUS 😁
 
-[![E-mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mateuslucas1879@gmail.com)
+[![E-mail](https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mateuslucas1879@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seu-nome/)
 [![HackerEarth](https://img.shields.io/badge/HackerEarth-323754?style=for-the-badge&logo=hackerearth&logoColor=white)](https://www.hackerearth.com/@mateuslucas)
-[![HackerRank](https://img.shields.io/badge/HackerRank-02569B?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/mateuslucas1879)
+[![HackerRank](https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/mateuslucas1879)
 
 ---
-### 📊 Linguagens que mais utilizo
 
+## 🚀 Sobre Mim
+Sou apaixonado por tecnologia, programação, sistemas operacionais e desenvolvimento de software.  
+Gosto de aprender novas linguagens, explorar ferramentas diferentes e melhorar minhas habilidades todos os dias.
+
+---
+
+## 📊 Minhas Linguagens Mais Utilizadas
+
+### 🔥 Linguagens por Repositórios
 ![Linguagens](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Mateuslucas1879&theme=radical)
 
-![Linguagens (Por Commits)](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Mateuslucas1879&theme=radical)
-
-
+### 🧠 Linguagens por Commits
+![Linguagens Commit](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Mateuslucas1879&theme=radical)
 
 ---
 
-## 🚀 TECNOLOGIAS QUE EU USO NO MEU DIA A DIA
+## 🔧 Tecnologias que uso no meu dia a dia
 <div style="display: inline-block"><br/>
 
 <img align="center" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
-<img align="center" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+<img align="center" src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
 <img align="center" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
 <img align="center" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
 <img align="center" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
@@ -30,7 +37,7 @@
 
 ---
 
-## 💻 EXPERIÊNCIA COM OUTRAS TECNOLOGIAS
+## 💻 Experiência com Outros Frameworks e Tecnologias
 <div style="display: inline-block"><br/>
 
 <img align="center" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white">
@@ -42,7 +49,7 @@
 
 ---
 
-## 🗃️ EXPERIÊNCIA COM BANCO DE DADOS
+## 🗄️ Experiência com Bancos de Dados
 <div style="display: inline-block"><br/>
 
 <img align="center" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
@@ -53,7 +60,7 @@
 
 ---
 
-## 🐧 SISTEMA OPERACIONAL ATUAL
+## 🐧 Sistema Operacional Atual
 <div style="display: inline-block"><br/>
 
 <img align="center" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
@@ -63,7 +70,7 @@
 
 ---
 
-## 🖥️ EXPERIÊNCIA COM OUTROS SISTEMAS OPERACIONAIS
+## 🖥️ Já trabalhei com outros sistemas também
 <div style="display: inline-block"><br/>
 
 <img align="center" src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white">
@@ -74,3 +81,10 @@
 
 ---
 
+## ⭐ Estatísticas Rápidas
+![Followers](https://img.shields.io/github/followers/Mateuslucas1879?label=Seguidores&style=for-the-badge)
+![Repos](https://img.shields.io/github/repo-count/Mateuslucas1879?label=Repositórios&style=for-the-badge)
+
+---
+
+### ✨ Sempre aprendendo, sempre evoluindo.
