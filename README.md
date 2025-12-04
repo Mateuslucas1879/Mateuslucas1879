@@ -7,7 +7,6 @@
 [![HackerRank](https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/mateuslucas1879)
 
 
-
 ## 📊 Minhas Linguagens Mais Utilizadas
 
 <div style="display: flex; gap: 10px; justify-content: center;">
