@@ -8,7 +8,7 @@
 ---
 
 ### 📊 **Minhas Estatísticas do GitHub**
-![Mateus GitHub stats](https://github-readme-stats.vercel.app/api?username=Mateuslucas1879&show_icons=true&theme=radical)
+![Mateus GitHub stats](https://github-readme-stats-git-main-rstaa-rickstaa.vercel.app/api?username=Mateuslucas1879&show_icons=true&theme=radical)
 
 ---
 
@@ -69,7 +69,4 @@
 </div>
 
 ---
-
-
-
 
