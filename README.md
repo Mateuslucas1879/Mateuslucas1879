@@ -7,7 +7,7 @@
 
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mateuslucas1879&show_icons=true&theme=radical)
+[Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mateuslucas1879&show_icons=true&theme=radical)
 
 
 ### TECNOLOGIAS QUE EU USO NO MEU DIA
