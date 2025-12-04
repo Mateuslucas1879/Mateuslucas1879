@@ -8,10 +8,13 @@
 
 
 
-### 📊 Linguagens que mais utilizo
+## 📊 Minhas Linguagens Mais Utilizadas
 
 <div style="display: flex; gap: 10px; justify-content: center;">
+  
+  ### 🔥 Linguagens por Repositórios
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Mateuslucas1879&theme=radical" alt="Repos per language" height="180">
+  ### 🧠 Linguagens por Commits
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Mateuslucas1879&theme=radical" alt="Most commit language" height="180">
 </div>
 
