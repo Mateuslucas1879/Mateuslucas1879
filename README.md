@@ -7,8 +7,13 @@
 
 ---
 
-### 📊 **Minhas Estatísticas do GitHub**
-![Mateus GitHub stats](https://github-readme-stats-git-main-rstaa-rickstaa.vercel.app/api?username=Mateuslucas1879&show_icons=true&theme=radical)
+### 📊 Minhas Estatísticas (Rápidas)
+
+[![Seguidores](https://img.shields.io/github/followers/Mateuslucas1879?label=Followers&style=for-the-badge)]
+[![Repositórios](https://img.shields.io/github/repo-count/Mateuslucas1879?style=for-the-badge)]
+[![Linguagens Top](https://img.shields.io/github/languages/top/Mateuslucas1879?style=for-the-badge)]
+[![Linguagens (count)](https://img.shields.io/github/languages/count/Mateuslucas1879?style=for-the-badge)]
+[![Perfil GitHub](https://img.shields.io/badge/GitHub-Mateuslucas1879-181717?style=for-the-badge&logo=github)]
 
 ---
 
